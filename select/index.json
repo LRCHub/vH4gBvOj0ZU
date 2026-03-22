@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Patalikod",
+  "base_artist": "Dreycruz & E-Kove",
+  "createdAt": "2026-03-22T14:29:06.794807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Patalikod",
+      "artist": "Dreycruz",
+      "has_synced": true,
+      "path": "select/01_Patalikod_Dreycruz.lrc"
+    }
+  ]
+}
